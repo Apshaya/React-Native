@@ -1,2 +1,2 @@
 # React-Native
-1st project for acadamic purpose
+first st project for acadamic purpose 
